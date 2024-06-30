@@ -1,7 +1,7 @@
 <div align="center">
   
   <img src="https://raw.githubusercontent.com/lucasfontini/lucasfontini/output/snake.svg" alt="Snake animation" />
-  
+
   ###
 
   <div>
@@ -25,5 +25,13 @@
   [![DevNet](https://img.shields.io/badge/DevNet-005073?style=for-the-badge&logo=cisco&logoColor=white)](https://developer.cisco.com/)
   [![Juniper](https://img.shields.io/badge/Juniper-0078D7?style=for-the-badge&logo=juniper-networks&logoColor=white)](https://www.juniper.net/)
   [![MikroTik](https://img.shields.io/badge/MikroTik-FF6600?style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com/)
+  [![NetBox](https://img.shields.io/badge/NetBox-008000?style=for-the-badge&logo=netbox&logoColor=white)](https://netbox.dev/)
+  [![StackStorm](https://img.shields.io/badge/StackStorm-FF7000?style=for-the-badge&logo=stackstorm&logoColor=white)](https://stackstorm.com/)
+  [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![NAPALM](https://img.shields.io/badge/NAPALM-0082C9?style=for-the-badge&logo=python&logoColor=white)](https://napalm-automation.net/)
+  [![Netmiko](https://img.shields.io/badge/Netmiko-008000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ktbyers/netmiko)
+  [![Paramiko](https://img.shields.io/badge/Paramiko-006400?style=for-the-badge&logo=python&logoColor=white)](http://www.paramiko.org/)
 
 </div>
